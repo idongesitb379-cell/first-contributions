@@ -71,7 +71,7 @@ hello ji
 - [Varshith Reddy](https://github.com/VarshithReddy2006)
 - [Jeet Gupta](https://github.com/JeetG-AlphaDev)
 - [Abhinav](https://github.com/Caterpillarok)
--[Idongesit Bassey](https://github.com)
+- [Idongesit Bassey](https://github.com/idongesitb379-cell)
 - [Arnav Amrit](https://github.com/ArnavAmrit)
 - [Htoo Eant Linn](https://github.com/htooeantlinn)
 - [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
